@@ -1,0 +1,4 @@
+__pycache__/
+env/
+# each server's durable Raft state (storage.py)
+data/
